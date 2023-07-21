@@ -1,6 +1,5 @@
 import { useEffect } from "react";
 import { useState } from "react";
-import Navbar from "./components/Navbar";
 
 function App() {
   const [myname, setmyname] = useState("p");
